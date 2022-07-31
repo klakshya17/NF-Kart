@@ -8,6 +8,7 @@ Upon purchase of product the ownership of the NFT is transferred to the User.
 
 - An admin/brand can put their product on the marketplace without any knowledge of blockchain with the help of User Interface.
 
+A demo video of the application can be found [here](https://drive.google.com/file/d/1wSe4VSgOSvbpl88UvRJ9BaEK4kYWepCh/view?usp=sharing).
 
 ## System Design
 ![image](https://user-images.githubusercontent.com/61948033/182045333-7d029f9f-6941-4a9d-ae52-2e1d8e7e6798.png)
